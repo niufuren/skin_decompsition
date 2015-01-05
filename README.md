@@ -6,7 +6,10 @@ Decompose skin into its independent components: heamoglobin and melanin componen
 ## Original image:
 ![original](https://raw.githubusercontent.com/niufuren/skin_decompsition/master/images/sample.bmp)
 
-## Deposed images:
+## Decomposed images:
+
+### haemoglobin
 ![haemoglobin](https://raw.githubusercontent.com/niufuren/skin_decompsition/master/images/haemoglobin.bmp)
+### melanin
 ![melanin](https://raw.githubusercontent.com/niufuren/skin_decompsition/master/images/melanin.bmp)
 
